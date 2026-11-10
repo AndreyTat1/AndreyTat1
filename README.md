@@ -64,7 +64,7 @@
 Учебный проект страницы товара с адаптивной вёрсткой и интерактивными элементами.
 
 **Технологии:** HTML, CSS, JavaScript.  
-**Репозиторий:** [найти на GitHub]([https://github.com/AndreyTat1?tab=repositories](https://github.com/AndreyTat1/TeaBoom))
+**Репозиторий:** [найти на GitHub][https://github.com/AndreyTat1?tab=repositories](https://github.com/AndreyTat1/TeaBoom)
 
 ### Context Switch — десктопное приложение
 
