@@ -45,35 +45,35 @@
 
 ## Личные проекты
 
-### 📱 SubRadar — контроль подписок
+### SubRadar — контроль подписок
 
 Приложение для учёта регулярных подписок, предстоящих списаний и расходов. Проект опубликован на начальном этапе и будет развиваться дальше.
 
 **Статус:** MVP / в разработке.  
-**Репозиторий:** [добавить ссылку на SubRadar](https://github.com/AndreyTat1?tab=repositories)
+**Репозиторий:** [клик]([https://github.com/AndreyTat1?tab=repositories](https://github.com/AndreyTat1/SubRadar))
 
-### 🧠 MyAI — собственная нейросетевая система
+### MyAI — собственная нейросетевая система
 
 Экспериментальный проект по созданию языковой модели и компонентов ИИ. Работа с токенизацией, Transformer-архитектурой, обучением и генерацией текста.
 
 **Технологии:** Python, PyTorch.  
 *Исходный код пока не опубликован.*
 
-### 🌐 TeaBoom — адаптивный веб-интерфейс
+### TeaBoom — адаптивный веб-интерфейс
 
 Учебный проект страницы товара с адаптивной вёрсткой и интерактивными элементами.
 
 **Технологии:** HTML, CSS, JavaScript.  
-**Репозиторий:** [найти на GitHub](https://github.com/AndreyTat1?tab=repositories)
+**Репозиторий:** [найти на GitHub]([https://github.com/AndreyTat1?tab=repositories](https://github.com/AndreyTat1/TeaBoom))
 
-### 🖥️ Context Switch — десктопное приложение
+### Context Switch — десктопное приложение
 
 Приложение для Windows, разработанное с использованием WPF.
 
 **Технологии:** C#, .NET, WPF.  
-**Репозиторий:** [найти на GitHub](https://github.com/AndreyTat1?tab=repositories)
+**Репозиторий:** [найти на GitHub]([https://github.com/AndreyTat1?tab=repositories](https://github.com/AndreyTat1/Context-Switch))
 
-### 🤖 Telegram-бот — трекер событий
+### Telegram-бот — трекер событий
 
 Бот для записи положительных и отрицательных событий с ежедневными и еженедельными отчётами.
 
@@ -83,6 +83,6 @@
 ## Связаться со мной
 
 - **GitHub:** [@AndreyTat1](https://github.com/AndreyTat1)
-- **Telegram:** `добавить ссылку`
-- **Email:** `добавить адрес`
-- **Сайт-резюме:** `добавить ссылку`
+- **Telegram:** `[клик](https://t.me/Andreydm1)`
+- **Email:** `andrey.tatark@gmail.com`
+- **Сайт-резюме:** `[клик](https://andreytat1.github.io/Resume/)`
