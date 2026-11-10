@@ -83,6 +83,7 @@
 ## Связаться со мной
 
 - **GitHub:** [@AndreyTat1](https://github.com/AndreyTat1)
-- **Telegram:** `[клик](https://t.me/Andreydm1)`
-- **Email:** `andrey.tatark@gmail.com`
-- **Сайт-резюме:** `[клик](https://andreytat1.github.io/Resume/)`
+###  Контакты
+- **Telegram:** [Написать мне](https://t.me/Andreydm1)
+- **Email:** [andrey.tatark@gmail.com](mailto:andrey.tatark@gmail.com)
+- **Сайт-резюме:** [Посмотреть резюме](https://andreytat1.github.io/Resume/)
