@@ -50,7 +50,7 @@
 Приложение для учёта регулярных подписок, предстоящих списаний и расходов. Проект опубликован на начальном этапе и будет развиваться дальше.
 
 **Статус:** MVP / в разработке.  
-**Репозиторий:** [клик]([https://github.com/AndreyTat1?tab=repositories](https://github.com/AndreyTat1/SubRadar))
+**Репозиторий:** [GitHub](https://github.com/AndreyTat1/SubRadar)
 
 ### MyAI — собственная нейросетевая система
 
@@ -64,14 +64,14 @@
 Учебный проект страницы товара с адаптивной вёрсткой и интерактивными элементами.
 
 **Технологии:** HTML, CSS, JavaScript.  
-**Репозиторий:** [найти на GitHub][https://github.com/AndreyTat1?tab=repositories](https://github.com/AndreyTat1/TeaBoom)
+**Репозиторий:** [GitHub](https://github.com/AndreyTat1/TeaBoom)
 
 ### Context Switch — десктопное приложение
 
 Приложение для Windows, разработанное с использованием WPF.
 
 **Технологии:** C#, .NET, WPF.  
-**Репозиторий:** [найти на GitHub]([https://github.com/AndreyTat1?tab=repositories](https://github.com/AndreyTat1/Context-Switch))
+**Репозиторий:** [GitHub](https://github.com/AndreyTat1/Context-Switch)
 
 ### Telegram-бот — трекер событий
 
